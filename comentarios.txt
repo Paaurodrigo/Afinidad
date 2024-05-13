@@ -1,0 +1,6 @@
+
+
+Diseño de la BD ok, PostgreSQL ok, consulta compleja para el match ok, imágenes ok... Faltaría usar otro .jar (DatePicker)
+
+Nota: +0.4
+  
